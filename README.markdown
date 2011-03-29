@@ -10,7 +10,6 @@ This is a github.com extension for dotjs <https://github.com/defunkt/dotjs/>, so
 ## credits
 
 - dotjs: <https://github.com/defunkt/dotjs/>
-- github-api: <https://github.com/levidehaan/github-api>
 
 ## fin
 
